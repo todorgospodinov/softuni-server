@@ -1365,7 +1365,9 @@
         comments: {
 
         },
-        
+        gallery: {
+
+        }
 
     };
     var rules$1 = {
